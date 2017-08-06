@@ -1,4 +1,4 @@
 BoringPyScripts
 -------------------------------------------------
 
-Automated boring task using python3
+Automate boring task using python3
